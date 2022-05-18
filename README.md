@@ -1,9 +1,9 @@
-# I am Super invincible killer King!!!
+# I am Super_Invincible_Killer_King Ah Ah Ah ! ! !
 
 # 我是超级无敌杀人王啊啊啊！！！
 
 
-- 👋 Hi, I’m @DarthEF
+- 👋 Hi, I’m @Darth_Eternalfaith. (Darth_EF||DEF)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
