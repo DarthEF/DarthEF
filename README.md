@@ -2,12 +2,11 @@
 
 # 我是超级无敌杀人王啊啊啊！！！
 
-
 - 👋 Hi, I’m @Darth_Eternalfaith. (Darth_EF||DEF)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+Because in China, the Github is hard to link.  In the link at the bottom you can find my the latest push. 
+
+https://gitee.com/darth_ef-self
 
 <!---
 DarthEF/DarthEF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
