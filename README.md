@@ -2,14 +2,13 @@
  * @Author: Darth_Eternalfaith darth_ef@hotmail.com
  * @Date: 2022-10-17 21:29:44
  * @LastEditors: Darth_Eternalfaith darth_ef@hotmail.com
- * @LastEditTime: 2022-10-17 22:11:41
+ * @LastEditTime: 2022-10-17 22:15:37
  * @FilePath: \DarthEternalFaith\README.md
  * @Description: 
  * 
  * Copyright (c) 2022 by Darth_Eternalfaith darth_ef@hotmail.com, All Rights Reserved. 
 -->
-# Darth_Eternalfaith
-![DEF](https://github.com/D-EF/DEF_UI_Lib/blob/master/img/logo.svg)
+# Darth_Eternalfaith <img src="https://github.com/D-EF/DEF_UI_Lib/blob/master/img/logo.svg" width="72em">
 * 👋 Hi, I’m Darth_Eternalfaith. Or youcan call me "DEF". Sometimes the "Darth_Eternalfaith" is too long and "DEF" has been registered. I will use "Darth_EF".
 * Today, I'm three years old. I dropped out of kindergarten.
 * My all the skills is immortal guiding in a dream.
