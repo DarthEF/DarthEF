@@ -10,13 +10,15 @@
 -->
 # 我是宇宙无敌暴龙神啊啊啊！ --2023-02-22
 # Darth_Eternalfaith <img src="https://github.com/D-EF/DEF_UI_Lib/blob/master/img/logo.svg" width="72em">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DarthEternalFaith&show_icons=true&icon_color=CE1D2D&hide_title=true&theme=onedark" />
+
 * 👋 Hi, I’m Darth_Eternalfaith. Or youcan call me "DEF". Sometimes the "Darth_Eternalfaith" is too long and "DEF" has been registered. I will use "Darth_EF".
 * Today, I'm three years old. I dropped out of kindergarten.
 * My all the skills is come from immortal guiding in a dream.
 * I study in a dream, had nearly three hundred year. But when I woke up, I mostly forgot. When I want to think that dream, too late.It was beyond recall.
 * Now my monthly pay will be 3000￥(cnm)(cny)(人民币元), After deductions of tax, rent, water, electricity, metro tickets and other. I can use 800-1000 to buy food. A half roast duck need 28, so i can eat it everday!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DarthEternalFaith&show_icons=true&icon_color=CE1D2D&hide_title=true&theme=onedark" />
 <!---
 DarthEF/DarthEF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
